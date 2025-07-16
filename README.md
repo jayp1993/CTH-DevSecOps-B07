@@ -1,6 +1,6 @@
 *Cloud Tech Hacks - DevSevOps B07 Class Repository** ☁️🚀  
 
-Welcome to the **officialDevSecOps B07 repository** at **Cloud Tech Hacks!** This is your one-stop destination for **class notes, assignments, and code snippets** from our interactive **DevSecOps** sessions.  
+Welcome to the **official DevSecOps B07 repository** at **Cloud Tech Hacks!** This is your one-stop destination for **class notes, assignments, and code snippets** from our interactive **DevSecOps** sessions.  
 
 ### 📔 Class Notes  
 Stay updated with **well-structured session notes** to master key Azure Cloud concepts.  
